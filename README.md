@@ -1,4 +1,4 @@
-# wp-thespace-access-log-csv
+# WP The Space Access Log CSV
 
 This is a WordPress plugin that logs access to the website and exports it as a CSV file.
 
