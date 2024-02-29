@@ -3,7 +3,7 @@
 Plugin Name: The Space Access Log CSV
 Plugin URI: https://www.thespacesm.com/
 Description: This is a plugin to log access to the space and export it as a CSV file.
-Version: 1.0.0
+Version: 1.0.1
 Author: The Space
 Author URI: https://www.thespacesm.com/
 License: GPL2
